@@ -13,7 +13,7 @@ import 'package:fluffychat/utils/platform_infos.dart';
 import 'events/audio_player.dart';
 
 class RecordingDialog extends StatefulWidget {
-  static const String recordingFileType = 'm4a';
+  static const String recordingFileType = 'ogg';
   const RecordingDialog({
     super.key,
   });
